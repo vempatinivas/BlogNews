@@ -3,6 +3,8 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import Badge from 'react-bootstrap/Badge';
 
+
+
 //import NavDropdown from 'react-bootstrap/NavDropdown';
 
 function NavbarLinks({setCategory}) {
